@@ -8,4 +8,4 @@
 - tailwind
 
 
-### [Демо-версия](https://trello-clone.vercel.app/)
+### [Демо-версия](https://trello-clone-ten-sooty.vercel.app/)
